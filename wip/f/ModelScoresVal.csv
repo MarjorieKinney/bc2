@@ -1,0 +1,10 @@
+,Scores
+VotingClassifierFitted,0.7125868855204757
+VotingClassifier,0.7052725358386652
+MLPClassifier,0.6995505269683818
+GradientBoostingClassifier,0.6982954789403631
+LogisticRegression,0.6978580830441546
+RandomForestClassifier,0.6962759881197167
+DecisionTreeClassifier,0.6578400000000001
+KNeighborsClassifier,0.6377086494688923
+GaussianNB,0.5555555555555556
